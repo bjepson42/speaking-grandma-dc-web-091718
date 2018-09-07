@@ -18,6 +18,5 @@ if sayToGrandma == "I LOVE YOU GRANDMA!"
 #elsif sayToGrandma == "Hi Nana, how are you?" || sayToGrandma == "Hi!"
 #  puts = "HUH?! SPEAK UP, SONNY!"
 else sayToGrandma == "WHAT DID YOU EAT TODAY?" || sayToGrandma == "WHAT?"
-  return "NO, NOT SINCE 1938!"
-foo
+ return "NO, NOT SINCE 1938!"
 end
