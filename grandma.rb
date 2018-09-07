@@ -13,11 +13,9 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma(sayToGrandma)
 if sayToGrandma == "I LOVE YOU GRANDMA!"
-  grandmaTalk = "I LOVE YOU TOO PUMPKIN!"
+  puts = "I LOVE YOU TOO PUMPKIN!"
 elsif sayToGrandma == "Hi Nana, how are you?" || sayToGrandma == "Hi!"
-  grandmaTalk = "HUH?! SPEAK UP, SONNY!"
+  puts = "HUH?! SPEAK UP, SONNY!"
 else sayToGrandma == "WHAT DID YOU EAT TODAY?" || sayToGrandma == "WHAT?"
-  grandmaTalk = "NO, NOT SINCE 1938!"
-puts grandmaTalk
-grandmaTalk
+  puts = "NO, NOT SINCE 1938!"
 end
