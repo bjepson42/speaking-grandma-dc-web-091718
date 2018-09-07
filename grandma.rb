@@ -13,7 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma(sayToGrandma)
 #if sayToGrandma == "I LOVE YOU GRANDMA!"
-if sayToGrandma == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN"
 #elsif sayToGrandma == "Hi Nana, how are you?" || sayToGrandma == "Hi!"
 #  puts = "HUH?! SPEAK UP, SONNY!"
