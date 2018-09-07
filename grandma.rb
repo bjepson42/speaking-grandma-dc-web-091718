@@ -19,6 +19,6 @@ elsif sayToGrandma == "Hi Nana, how are you?" || sayToGrandma == "Hi!"
 elsif sayToGrandma == "WHAT DID YOU EAT TODAY?" || sayToGrandma == "WHAT?"
  return "NO, NOT SINCE 1938!"
  else
-   return "DFLDKFJAKL:JF"
+   return "GRANDMA DOES NOT COMPUTE"
  end
 end
