@@ -19,4 +19,5 @@ elsif sayToGrandma == "Hi Nana, how are you?" || sayToGrandma == "Hi!"
 else sayToGrandma == "WHAT DID YOU EAT TODAY?" || sayToGrandma == "WHAT?"
   grandmaTalk = "NO, NOT SINCE 1938!"
 puts grandmaTalk
+grandmaTalk
 end
