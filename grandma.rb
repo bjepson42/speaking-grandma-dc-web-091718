@@ -16,7 +16,9 @@ if sayToGrandma == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 elsif sayToGrandma == "Hi Nana, how are you?" || sayToGrandma == "Hi!"
   return "HUH?! SPEAK UP, SONNY!"
-else sayToGrandma == "WHAT DID YOU EAT TODAY?"
+elsif sayToGrandma == "WHAT DID YOU EAT TODAY?"
  return "NO, NOT SINCE 1938!"
+ else
+   return "DFLDKFJAKL:JF"
  end
 end
